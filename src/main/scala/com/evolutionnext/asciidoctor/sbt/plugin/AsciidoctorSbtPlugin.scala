@@ -16,5 +16,6 @@ package com.evolutionnext.asciidoctor.sbt.plugin
  * limitations under the License.
  */
 object AsciidoctorSbtPlugin {
+  
 
 }
